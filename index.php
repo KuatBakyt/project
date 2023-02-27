@@ -67,7 +67,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Главная</title>
+	<title>Главная index</title>
     <?php include "views/head.php";?>
 </head>
 <body>
